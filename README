@@ -1,0 +1,13 @@
+This is a Python GUI to search text data in CHINESE! [Code is in English though :-P]
+
+The data collected melodies’ information that appeared in the Score with their general properties such as tonality (Gong Diao) , style and classification.
+The GUI program allowed users to locate melodies by searching for different classes of keyword(s) through the information collected and return corresponding entries to user.
+
+=====================================================
+
+说明：
+基础内容与《螾庐曲谈》卷三曲牌检索部分一致，新增“剧目”一栏方便使用。
+欢迎各种反馈
+
+微博@乱煞年光遍
+Email: lsngb@hotmail.com
