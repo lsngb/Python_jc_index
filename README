@@ -1,13 +1,14 @@
 This is a Python GUI to search text data in CHINESE! [Code is in English though :-P]
 
-The data collected melodies¡¯ information that appeared in the Score with their general properties such as tonality (Gong Diao) , style and classification.
+This is a retrieval program for â€œJi Cheng Musical Scoreâ€ of Kunqu Opera.
+The data collected melodiesï¿½ï¿½ information that appeared in the Score with their general properties such as tonality (Gong Diao) , style and classification.
 The GUI program allowed users to locate melodies by searching for different classes of keyword(s) through the information collected and return corresponding entries to user.
 
 =====================================================
 
-ËµÃ÷£º
-»ù´¡ÄÚÈİÓë¡¶ÏPÂ®ÇúÌ¸¡·¾íÈıÇúÅÆ¼ìË÷²¿·ÖÒ»ÖÂ£¬ĞÂÔö¡°¾çÄ¿¡±Ò»À¸·½±ãÊ¹ÓÃ¡£
-»¶Ó­¸÷ÖÖ·´À¡
+Ëµï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë¡¶ï¿½PÂ®ï¿½ï¿½Ì¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½Â£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½Ã¡ï¿½
+ï¿½ï¿½Ó­ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½
 
-Î¢²©@ÂÒÉ·Äê¹â±é
+Î¢ï¿½ï¿½@ï¿½ï¿½É·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 Email: lsngb@hotmail.com
